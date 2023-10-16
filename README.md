@@ -1,5 +1,7 @@
 # ColTrack
 
+## The code has been moved to [bytedance/ColTrack](https://github.com/bytedance/ColTrack).
+
 #### ColTrack not only outperforms state-of-the-art methods on large-scale datasets under high frame rates but also achieves higher and more stable performance under low frame rates. This allows it to obtain a higher equivalent FPS by reducing the frame rate requirement.
 
 <p align="center"><img src="figures/eq_fps.png" width="500"/></p>
@@ -12,6 +14,7 @@
 
 
 ## News
+* The code can be found in [https://github.com/bytedance/ColTrack](https://github.com/bytedance/ColTrack).
 * (2023.09.22) The code is in the company's open source review process and will be available soon. 
 * (2023.07) Our paper is accepted by ICCV 2023!
 
